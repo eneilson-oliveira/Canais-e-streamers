@@ -4,7 +4,7 @@
 
 projeto construido do evento Next level week.
 
-[clique aqui para acessar]=>(https://eneilson-oliveira.github.io/Canais-e-streamers/);
+[clique aqui para acessar](https://eneilson-oliveira.github.io/Canais-e-streamers/);
 
 
 ### Tecnologias
